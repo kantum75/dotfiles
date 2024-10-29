@@ -1,0 +1,5 @@
+alias bat='batcat'
+alias bi='bundle install'
+alias be='bundle exec'
+alias ber='bundle exec rubocop'
+alias ta='tmux attach'
